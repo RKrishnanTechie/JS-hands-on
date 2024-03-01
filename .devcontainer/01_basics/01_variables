@@ -3,7 +3,7 @@ let mail = "rk$gmail.com"
 var name = "Rk"
 address = "liverpool"
 mail = "Rk@liv.com"
-/**
- * prefer not use var because of block and functional scope
+/*
+ prefer not use var because of block and functional scope
  */
 console.table([id,mail,name,address]);
